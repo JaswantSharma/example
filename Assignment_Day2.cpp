@@ -11,6 +11,8 @@ int variable =100;
 //Can we print this variable here using cout<<?
 void calculator(){
     
+    cout<<"this is calculator"<<endl;
+    
     int num1,num2;
     cout<<"Enter Two numbers";
     cin>>num1>>num2;
