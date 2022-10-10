@@ -12,6 +12,8 @@ int variable =100;
 void calculator(){
     
     cout<<"this is calculator"<<endl;
+    cout<<"again "<<endl;
+    cout<<"another line"<<endl;
     
     int num1,num2;
     cout<<"Enter Two numbers";
