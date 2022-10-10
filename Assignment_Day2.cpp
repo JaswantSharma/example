@@ -12,7 +12,10 @@ int variable =100;
 void calculator(){
     
     cout<<"this is calculator"<<endl;
-    cout<<"this is a change in working branch"<<endl;
+    cout<<"this is another change in main  branch"<<endl;
+    cout<<"change in main branch"<<endl;
+
+ cout<<"this is a change in working branch"<<endl;
     cout<<"again "<<endl;
     cout<<"another line"<<endl;
     
