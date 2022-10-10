@@ -19,6 +19,7 @@ void calculator(){
     cout<<"4th change in working branch "<<endl;
     cout<<"5th change in working branch "<<endl;
     cout<<"6th change in working branch"<<endl;
+    cout<<"7th change in working branch"<<endl;
     cout<<"again "<<endl;
     cout<<"another line"<<endl;
     
